@@ -41,7 +41,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
 </p>
 
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sedaghi&langs_count=10&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
+</p>
 
 
 <h3 align="center">------------------------------ ⚡ Skills ------------------------------</h3><br />
