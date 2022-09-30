@@ -1,5 +1,10 @@
+<h3 align="center">
+  Welcome to Ali Sedaghi's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;This+is+Ali+Sedaghi;A+CE+Undergrad+Student;An+AI+Enthusiast" alt="my-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&size=22&color=FA8B00&background=9F8E3C00&center=true&vCenter=true&width=435&lines=A+CE+Undergrad+Student;An+AI+Enthusiast" alt="my-intro" />
 </p>
 
 <p align="center">
@@ -37,12 +42,17 @@
 
 <h3 align="center">------------------------------ 📊 Stats ------------------------------</h3><br />
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <img width="352.5" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  
+  <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
+  
+  <img width="434.5" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
+  
+  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=10&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
+
 </p>
 
 
@@ -87,6 +97,11 @@
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
 </p>
 
-<!-- <p align="center">
-  nltk
-</p> -->
+<h3 align="center">------------------------------ ⭐ Top Repos ------------------------------</h3><br />
+<p align="center">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+</p>
