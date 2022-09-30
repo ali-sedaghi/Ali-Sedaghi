@@ -40,7 +40,8 @@
 </p> -->
 
 
-<h3 align="center">------------------------------ 📊 Stats ------------------------------</h3><br />
+## 📊 Stats
+
 <p align="center">
   <img width="352.5" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
   
@@ -51,12 +52,9 @@
   <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
 </p>
 
-<p align="center">
 
-</p>
+## ⚡ Skills
 
-
-<h3 align="center">------------------------------ ⚡ Skills ------------------------------</h3><br />
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -97,7 +95,9 @@
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
 </p>
 
-<h3 align="center">------------------------------ ⭐ Top Repos ------------------------------</h3><br />
+
+## ⭐ Top Repos
+
 <p align="center">
   <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
