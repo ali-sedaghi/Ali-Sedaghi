@@ -25,6 +25,12 @@
 </p>
 
 <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&amp;redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=fa8b00&amp;bar_color_cover=false" alt="spotify-github-profile">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=ali-sedaghi&right_color=orange" alt="visitors">
 </p>
 
