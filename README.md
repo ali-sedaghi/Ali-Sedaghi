@@ -30,9 +30,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ali-sedaghi&right_color=orange" alt="visitors">
-</p>
+<!-- <p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ali-sedaghi" alt="visitors">
+</p> -->
 
 
 <h3 align="center">------------------------------ 📊 Stats ------------------------------</h3><br />
