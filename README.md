@@ -29,10 +29,7 @@
 </p>
 
 
-<hr />
-
-
-<h3 align="center">📊 Stats</h3>
+<h3 align="center">------------------------------ 📊 Stats ------------------------------</h3><br />
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
@@ -42,11 +39,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sedaghi&langs_count=10&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
 </p>
 
+<br />
 
-<hr />
-
-
-<h3 align="center">⚡ Skills</h3>
+<h3 align="center">------------------------------ ⚡ Skills ------------------------------</h3><br />
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
