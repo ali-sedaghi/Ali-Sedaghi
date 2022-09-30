@@ -39,7 +39,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-sedaghi&langs_count=10&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
 </p>
 
-<br />
 
 <h3 align="center">------------------------------ ⚡ Skills ------------------------------</h3><br />
 <p align="center">
@@ -76,7 +75,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Scrum" height="25" src="images/scrum.png"></code>
   <code><img title="VSCode" height="25" src="images/vscode.svg"></code>
-  <code><img title="ANTLR" height="25" src="images/antlr.png"></code>
+  <code><img title="ANTLR" height="25" src="images/antlr.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Linux" height="25" src="images/linux.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
