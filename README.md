@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ali-sedaghi/" title="GitHub">
-    <img width="30" src="images/github.svg">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ali-sedaghi-b4366963/" title="LinkedIn">
     <img width="30" src="images/linkedin.svg">
   </a>
@@ -38,8 +34,8 @@
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
