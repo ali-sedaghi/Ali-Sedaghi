@@ -99,9 +99,25 @@
 ## ⭐ Top Repos
 
 <p align="center">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" alt="Readme Card">
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ragnacodes&repo=Legato-Frontend&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Legato-Frontend&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Seam-Carving&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Basic-DOS-Attack&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=DNS-Spoofing&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=XO-ATmega32&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=m-zakeri&repo=OpenUnderstand&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-DL-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-NLP-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-CI-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
 </p>
