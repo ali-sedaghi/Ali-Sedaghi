@@ -49,7 +49,7 @@
   
   <img width="434.5" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   
-  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00" />
+  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" />
 </p>
 
 
