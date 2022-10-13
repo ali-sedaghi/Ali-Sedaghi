@@ -94,3 +94,20 @@
   <code><img title="Linux" height="25" src="images/linux.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
 </p>
+
+
+## ⭐ Top Repos
+
+<p align="center">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Legato&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=TunePal&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=CardNumber-DeepOCR&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Seam-Carving&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-DL-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+</p>
