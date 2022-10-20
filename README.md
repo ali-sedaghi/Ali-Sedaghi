@@ -96,7 +96,7 @@
 </p>
 
 
-## Projects and Contributions
+## ⭐️ Projects and Contributions
 
 ### Computer Vision & Image Processing
 <p align="center">
