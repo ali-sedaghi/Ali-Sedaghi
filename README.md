@@ -43,9 +43,9 @@
 ## 📊 Stats
 
 <p align="center">
-  <img width="352.5" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <img width="352.5" src="https://streak-stats.demolab.com/?user=ali-sedaghi&theme=dark&hide_border=true" />
   
-  <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
   
   <img width="434.5" src="https://github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   
