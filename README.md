@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&amp;redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&amp;cover_image=true&amp;theme=novatorem&amp;bar_color=fa8b00&amp;bar_color_cover=false" alt="spotify-github-profile">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&;redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3tareha&cover_image=true&theme=novatorem&bar_color=fa8b00&bar_color_cover=false&show_offline=true" alt="spotify-github-profile">
   </a>
 </p>
 
