@@ -1,8 +1,8 @@
 <!-- Welcome Message -->
-<h4 align="center">
+<h3 align="center">
   Welcome to Ali Sedaghi's GitHub Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h4>
+</h3>
 
 <!-- Website -->
 <p align="center">Check out My Website: <a href="https://alisedaghi.com">alisedaghi.com</a></p>
@@ -45,58 +45,58 @@
 
 <!-- Programming -->
 <p align="center">
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-  <code><img title="MATLAB" height="25" src="images/matlab.svg"></code>
-  <code><img title="LaTeX" height="25" src="images/latex.svg"></code>
+  <code><img title="Python" height="30" src="images/python.svg"></code>
+  <code><img title="JavaScript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Java" height="30" src="images/java.svg"></code>
+  <code><img title="C" height="30" src="images/c.svg"></code>
+  <code><img title="Bash" height="30" src="images/bash.svg"></code>
+  <code><img title="MATLAB" height="30" src="images/matlab.svg"></code>
+  <code><img title="LaTeX" height="30" src="images/latex.svg"></code>
 </p>
 
 <!-- Machine Learning -->
 <p align="center">
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.svg"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.svg"></code>
-  <code><img title="Keras" height="25" src="images/keras.svg"></code>
-  <code><img title="OpenCV" height="25" src="images/opencv.svg"></code>
-  <code><img title="Scikit‑Learn" height="25" src="images/sklearn.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.png"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.png"></code>
+  <code><img title="TensorFlow" height="30" src="images/tensorflow.svg"></code>
+  <code><img title="PyTorch" height="30" src="images/pytorch.svg"></code>
+  <code><img title="Keras" height="30" src="images/keras.svg"></code>
+  <code><img title="OpenCV" height="30" src="images/opencv.svg"></code>
+  <code><img title="Scikit‑Learn" height="30" src="images/sklearn.svg"></code>
+  <code><img title="NumPy" height="30" src="images/numpy.svg"></code>
+  <code><img title="Pandas" height="30" src="images/pandas.png"></code>
+  <code><img title="Matplotlib" height="30" src="images/matplotlib.svg"></code>
+  <code><img title="Seaborn" height="30" src="images/seaborn.png"></code>
 </p>
 
 <!-- Web Development -->
 <p align="center">
-  <code><img title="ReactJS" height="25" src="images/react.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Jest" height="25" src="images/jest.svg"></code>
-  <code><img title="Progressive Web App (PWA)" height="25" src="images/pwa.png"></code>
-  <code><img title="Material‑UI" height="25" src="images/mui.svg"></code>
-  <code><img title="Bootstrap" height="25" src="images/bootstrap.png"></code>
-  <code><img title="HTML" height="25" src="images/html.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Sass" height="25" src="images/sass.svg"></code>
+  <code><img title="ReactJS" height="30" src="images/react.svg"></code>
+  <code><img title="Redux" height="30" src="images/redux.svg"></code>
+  <code><img title="Jest" height="30" src="images/jest.svg"></code>
+  <code><img title="Progressive Web App (PWA)" height="30" src="images/pwa.png"></code>
+  <code><img title="Material‑UI" height="30" src="images/mui.svg"></code>
+  <code><img title="Bootstrap" height="30" src="images/bootstrap.png"></code>
+  <code><img title="HTML" height="30" src="images/html.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Sass" height="30" src="images/sass.svg"></code>
 </p>
 
 <!-- Software -->
 <p align="center">
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Kubernetes" height="25" src="images/kubernetes.png"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="NGINX" height="25" src="images/nginx.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Scrum" height="25" src="images/scrum.png"></code>
-  <code><img title="ANTLR" height="25" src="images/antlr.svg"></code>
+  <code><img title="Docker" height="30" src="images/docker.svg"></code>
+  <code><img title="Kubernetes" height="30" src="images/kubernetes.png"></code>
+  <code><img title="Linux" height="30" src="images/linux.svg"></code>
+  <code><img title="NGINX" height="30" src="images/nginx.svg"></code>
+  <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
+  <code><img title="Git" height="30" src="images/git.svg"></code>
+  <code><img title="Scrum" height="30" src="images/scrum.png"></code>
+  <code><img title="ANTLR" height="30" src="images/antlr.svg"></code>
 </p>
 
 <!-- Hardware -->
 <p align="center">
-  <code><img title="Arduino" height="25" src="images/arduino.png"></code>
-  <code><img title="AVR" height="25" src="images/avr.png"></code>
-  <code><img title="Proteus" height="25" src="images/proteus.png"></code>
+  <code><img title="Arduino" height="30" src="images/arduino.png"></code>
+  <code><img title="AVR" height="30" src="images/avr.png"></code>
+  <code><img title="Proteus" height="30" src="images/proteus.png"></code>
 </p>
 
 ## ⭐️ Projects
