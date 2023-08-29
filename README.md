@@ -106,27 +106,27 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/RetinaFace-Emotion-Detection">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=RetinaFace-Emotion-Detection&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=RetinaFace-Emotion-Detection&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/CardNumber-DeepOCR">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=CardNumber-DeepOCR&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=CardNumber-DeepOCR&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Seam-Carving">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Seam-Carving&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Seam-Carving&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Facial-Landmark-Detection">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Facial-Landmark-Detection&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Facial-Landmark-Detection&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/RoI-ResNet">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=RoI-ResNet&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=RoI-ResNet&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/AffectNet-Trainer">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=AffectNet-Trainer&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=AffectNet-Trainer&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Inception-ResNet-FER2013">
@@ -134,7 +134,7 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/ResNet50-CIFAR10-FER2013">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=ResNet50-CIFAR10-FER2013&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=ResNet50-CIFAR10-FER2013&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
 
@@ -142,11 +142,11 @@
 
 <p align="center">
   <a href="https://github.com/ali-sedaghi/Dialogue-Character-Prediction">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/NaiveBayes-Text-Classifier">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=NaiveBayes-Text-Classifier&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=NaiveBayes-Text-Classifier&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/POS-Tagger">
@@ -154,7 +154,7 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-NLP-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-NLP-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-NLP-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
 
@@ -166,23 +166,23 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/Genetic-Algorithm-TSP">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Genetic-Algorithm-TSP&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Genetic-Algorithm-TSP&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/GA-Equation-Solver">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=GA-Equation-Solver&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=GA-Equation-Solver&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Hopfield-Pattern-Recognition">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Hopfield-Pattern-Recognition&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Hopfield-Pattern-Recognition&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/RBFN-Function-Approximation">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=RBFN-Function-Approximation&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=RBFN-Function-Approximation&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/RGB-Map-SOM-Kohonen">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=RGB-Map-SOM-Kohonen&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=RGB-Map-SOM-Kohonen&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/MLP-MNIST-NumPy">
@@ -194,11 +194,11 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-DL-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-DL-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-DL-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-CI-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-CI-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-CI-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
 
@@ -234,15 +234,15 @@
 
 <p align="center">
   <a href="https://github.com/Ragnacodes/Legato-Frontend">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ragnacodes&repo=Legato-Frontend&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=Ragnacodes&repo=Legato-Frontend&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/TunePal">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=TunePal&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=TunePal&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Ali-Sedaghi">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Ali-Sedaghi&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Ali-Sedaghi&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
 
@@ -250,11 +250,11 @@
 
 <p align="center">
   <a href="https://github.com/m-zakeri/OpenUnderstand">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m-zakeri&repo=OpenUnderstand&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=m-zakeri&repo=OpenUnderstand&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/WYOOS">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=WYOOS&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=WYOOS&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Zapenger">
@@ -262,7 +262,7 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/Bipartite-Graph">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Bipartite-Graph&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=Bipartite-Graph&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/Car-Sales-System-Database">
@@ -274,11 +274,11 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-Compiler-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-Compiler-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-Compiler-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-FMSE-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-FMSE-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://github-readme-stats-nikomadol.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-FMSE-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
 
