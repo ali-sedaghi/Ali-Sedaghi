@@ -35,10 +35,10 @@
   <img width="397" src="https://github-readme-activity-graph-nikomadol.vercel.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
   
   <!-- Stats -->
-  <img width="452" src="https://github-readme-stats-nikomadol.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
+  <img width="452" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
   
   <!-- Languages -->
-  <img width="298" src="https://github-readme-stats-nikomadol.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
+  <img width="298" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
 </p>
 
 ## ⚡ Skills
