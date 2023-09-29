@@ -29,10 +29,12 @@
 
 <p align="center">
   <!-- Streak -->
-  <img width="350" src="https://github-readme-streak-stats-nikomadol.vercel.app/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <!-- !! PLEASE fork this repository and consider giving it a star if you'd like to use it. -->
+  <img width="350" src="https://github-readme-streak-stats-8qopazm3p-haneball.vercel.app/?user=ali-sedaghi&theme=dark&hide_border=true" />
   
   <!-- Graph -->
-  <img width="394" src="https://github-readme-activity-graph-nikomadol.vercel.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
+  <!-- !! PLEASE fork this repository and consider giving it a star if you'd like to use it. -->
+  <img width="394" src="https://github-readme-activity-graph-g56pdns35-haneball.vercel.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
   
   <!-- Stats -->
   <img width="431" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
