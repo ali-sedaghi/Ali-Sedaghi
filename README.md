@@ -21,10 +21,7 @@
 </p>
 -->
 <!-- Visits & Visitors -->
-<p align="center">
-  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
-  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
-</p>
+
 
 ## 📊 Stats
 
@@ -52,8 +49,10 @@
   <code><img title="JavaScript" height="30" src="images/javascript.svg"></code>
   <code><img title="Java" height="30" src="images/java.svg"></code>
   <code><img title="C" height="30" src="images/c.svg"></code>
+  <code><img title="C++" height="30" src=""></code>
+  <code><img title="C#" height="30" src=""></code>
+  <code><img title="Go" height="30" src=""></code>
   <code><img title="Bash" height="30" src="images/bash.svg"></code>
-  <code><img title="MATLAB" height="30" src="images/matlab.svg"></code>
   <code><img title="LaTeX" height="30" src="images/latex.svg"></code>
 </p>
 
@@ -61,45 +60,80 @@
 <p align="center">
   <code><img title="TensorFlow" height="30" src="images/tensorflow.svg"></code>
   <code><img title="PyTorch" height="30" src="images/pytorch.svg"></code>
-  <code><img title="Keras" height="30" src="images/keras.svg"></code>
-  <code><img title="OpenCV" height="30" src="images/opencv.svg"></code>
-  <code><img title="Scikit‑Learn" height="30" src="images/sklearn.svg"></code>
   <code><img title="NumPy" height="30" src="images/numpy.svg"></code>
   <code><img title="Pandas" height="30" src="images/pandas.png"></code>
   <code><img title="Matplotlib" height="30" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="30" src="images/seaborn.png"></code>
 </p>
 
 <!-- Web Development -->
 <p align="center">
   <code><img title="ReactJS" height="30" src="images/react.svg"></code>
-  <code><img title="Redux" height="30" src="images/redux.svg"></code>
-  <code><img title="Jest" height="30" src="images/jest.svg"></code>
-  <code><img title="Progressive Web App (PWA)" height="30" src="images/pwa.png"></code>
   <code><img title="Material‑UI" height="30" src="images/mui.svg"></code>
-  <code><img title="Bootstrap" height="30" src="images/bootstrap.png"></code>
   <code><img title="HTML" height="30" src="images/html.svg"></code>
   <code><img title="CSS" height="30" src="images/css.svg"></code>
-  <code><img title="Sass" height="30" src="images/sass.svg"></code>
 </p>
 
 <!-- Software -->
 <p align="center">
   <code><img title="Docker" height="30" src="images/docker.svg"></code>
-  <code><img title="Kubernetes" height="30" src="images/kubernetes.png"></code>
   <code><img title="Linux" height="30" src="images/linux.svg"></code>
   <code><img title="NGINX" height="30" src="images/nginx.svg"></code>
   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
   <code><img title="Git" height="30" src="images/git.svg"></code>
-  <code><img title="Scrum" height="30" src="images/scrum.png"></code>
-  <code><img title="ANTLR" height="30" src="images/antlr.svg"></code>
+  <code><img title="Gitlab" height="30" src=""></code>
 </p>
 
 <!-- Hardware -->
 <p align="center">
-  <code><img title="Arduino" height="30" src="images/arduino.png"></code>
-  <code><img title="AVR" height="30" src="images/avr.png"></code>
   <code><img title="Proteus" height="30" src="images/proteus.png"></code>
+  <code><img title="VHDL" height="30" src=""></code>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge">
+  <img src="https://visitor-badge.imlete.cn/?id=github.shabika0A&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge">
+</p>
+
+
+<h3 align="center">⚡ Skills</h1>
+
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+<h3 align="center"> Follow me around the web  </h1>
+<p align="center">
+   <!-- <a href="https://aminmag.ir" target="_blank"><img alt="Firefox" src="https://img.shields.io/badge/AminMAG-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white"></a> -->
+    <a href="https://github.com/shabika0A" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@shabika0A-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/shakiba-anaraki-firooz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://telegram.me/shabika0A" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-eeeee4?style=flat-square&logo=Telegram&logoColor=white"></a>
+    <!-- <a href="https://www.instagram.com/_amin_mag_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-eeeee4?style=flat-square&logo=Instagram&logoColor=red"></a>
+    <br>
+	<a href="https://github.com/Amin-MAG/Amin-MAG" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/amin-mag/amin-mag?label=profile%20updated&style=flat-square"></a> -->
+   <br>
+  	<a href="https://github.com/shabika0A/Shakiba-Anaraki-Firooz" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shabika0A/Shakiba-Anaraki-Firooz?label=profile%20updated&style=flat-square"></a>
+
+  
 </p>
 
 <!--
