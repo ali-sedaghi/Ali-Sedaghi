@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3tareha&redirect=true">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3tareha&cover_image=true&theme=novatorem&show_offline=false&interchange=false&background_color=121212&bar_color=fa8b00&bar_color_cover=true" />
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=3tareha&cover_image=true&theme=novatorem&show_offline=true&interchange=false&background_color=121212&bar_color=fa8b00&bar_color_cover=true" />
   </a>
 </p>
 
@@ -24,6 +24,24 @@
     src="https://visitor-badge.imlete.cn/?id=github.ali-sedaghi&type=pv&label=%F0%9F%91%81visits&labelColor=ce4630&color=e05d44&style=for-the-badge" />
   <img
     src="https://visitor-badge.imlete.cn/?id=github.ali-sedaghi&type=uv&label=%F0%9F%91%A4visitors&labelColor=c79600&color=e1ad0e&style=for-the-badge" />
+</p>
+
+<!-- !! PLEASE fork this repository and consider giving it a star if you'd like to use it. -->
+<!--------- Section: Stats --------->
+<h2>📊 Stats</h2>
+<p align="center">
+  <!-- Streak -->
+  <img width="350"
+    src="https://github-readme-streak-stats-ecso-p940ts0mg-haneballs-projects.vercel.app/?user=ali-sedaghi&theme=dark&hide_border=true" />
+  <!-- Graph -->
+  <img width="394"
+    src="https://github-readme-activity-graph-zqmq-qj8yl1uwn-haneballs-projects.vercel.app/graph/?username=ali-sedaghi&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8" />
+  <!-- Stats -->
+  <img width="448"
+    src="https://github-readme-stats-0icg-vy00n4x89-haneballs-projects.vercel.app/api?username=ali-sedaghi&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
+  <!-- Languages -->
+  <img width="296"
+    src="https://github-readme-stats-0icg-vy00n4x89-haneballs-projects.vercel.app/api/top-langs/?username=Ali-Sedaghi&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook,perl,assembly&exclude_repo=Berkeley-CS188-Projects,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32,IUST-CAD-Assignments" />
 </p>
 
 <!--------- Section: Skills --------->
