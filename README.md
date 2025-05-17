@@ -103,11 +103,10 @@
 </p>
 
 <!--------- Section: Repositories --------->
-<details>
-<summary><h2>📕 Repositories</h2></summary>
+<h2>📕 Repositories</h2>
 
 <details>
-<summary><h3>Computer Vision</h3></summary>
+<summary><span>Computer Vision Repos</span></summary>
 <p align="center">
   <a href="https://github.com/ali-sedaghi/Interactive-BraTS">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Interactive-BraTS&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -148,7 +147,7 @@
 </details>
 
 <details>
-<summary><h3>Natural Language Processing</h3></summary>
+<summary><span>Natural Language Processing Repos</span></summary>
 <p align="center">
   <a href="https://github.com/ali-sedaghi/Dialogue-Character-Prediction">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -169,7 +168,7 @@
 </details>
 
 <details>
-<summary><h3>Machine Learning & AI</h3></summary>
+<summary><span>Machine Learning & AI Repos</span></summary>
 <p align="center">
   <a href="https://github.com/ali-sedaghi/Berkeley-CS188-Projects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Berkeley-CS188-Projects&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -214,7 +213,7 @@
 </details>
 
 <details>
-<summary><h3>Software Engineering</h3></summary>
+<summary><span>Software Engineering Repos</span></summary>
 <p align="center">
   <a href="https://github.com/Ragnacodes/Legato-Frontend">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ragnacodes&repo=Legato-Frontend&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -263,7 +262,7 @@
 </details>
 
 <details>
-<summary><h3>Hardware & IoT</h3></summary>
+<summary><span>Hardware & IoT Repos</span></summary>
 <p align="center">
   <a href="https://github.com/ali-sedaghi/IoT-Sound-Level-Monitor">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IoT-Sound-Level-Monitor&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -292,7 +291,7 @@
 </details>
 
 <details>
-<summary><h3>Network & Security</h3></summary>
+<summary><span>Network & Security Repos</span></summary>
 <p align="center">
   <a href="https://github.com/ali-sedaghi/DNS-Spoofing">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=DNS-Spoofing&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
@@ -318,6 +317,4 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-MN-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 </p>
-</details>
-
 </details>
