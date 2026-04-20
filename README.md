@@ -153,6 +153,10 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
+  <a href="https://github.com/ali-sedaghi/Hybrid-ABSA">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Hybrid-ABSA&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+  </a>
+
   <a href="https://github.com/ali-sedaghi/NaiveBayes-Text-Classifier">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=NaiveBayes-Text-Classifier&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
@@ -278,6 +282,10 @@
 
   <a href="https://github.com/ali-sedaghi/Tinkercad-Arduino-Calculator">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Tinkercad-Arduino-Calculator&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  <a href="https://github.com/ali-sedaghi/Deductive-Fault-Simulation">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Deductive-Fault-Simulation&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-MicroLab-Assignments">
